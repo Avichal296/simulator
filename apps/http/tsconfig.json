@@ -1,4 +1,4 @@
 {
-  "extends":" ../../tsconfig.base.json"
+  "extends":"@repo/typescript-config/base.json"
 }
 // this is done to as to  avoid the rerender inhte tsconfig file as the same file exist in the botht the htto and the weeb frontend repo

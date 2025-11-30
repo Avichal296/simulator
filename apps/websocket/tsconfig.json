@@ -1,4 +1,4 @@
 {
-  "extends":" ../../tsconfig.base.json",
+  "extends":" @repo/typescript-conifg/base.json",
 }
 // this is done to as to avoid the reerebnder in the tsconfig file as same file exist in the both the http and the web frontend repo
